@@ -14,3 +14,7 @@ Peng Wang
 **Dataset:**
 
 The dataset "CDC diabetes health indicators" is from the website: https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators 
+
+**Target:**
+
+To better understand the relationship between  lifestyle and diabetes in the US
