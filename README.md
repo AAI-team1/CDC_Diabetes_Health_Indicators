@@ -53,11 +53,7 @@ Each record represents one individual’s survey and health information.
 ---
 
 ### Data Processing Notes
-- Age values were **bucketed** into 13 categories (`_AGEG5YR`).
-- All variables are **numerical (binary or integer)** — no one-hot encoding is required.
-- Recommended data splitting methods:  
-  - **Cross-validation**, or  
-  - **Fixed train/validation/test split**.
+For the data preprocessing, both the binary (0,1) and ordinal (integer ordered) features maybe unnecessary to do the one-hot transformation. Only the continuous/numeric features like BMI and MentHlth and PhyHlth need to apply the standardization.
 
 ---
 
