@@ -1,4 +1,5 @@
-# CDC_Diabetes_Health_Indicators
+# CDC Diabetes Health Indicators
+
  **Short description:** AAI-500-01 final project: CDC Diabetes dataset is used for exploratory data analysis and modeling
 
 
@@ -20,9 +21,9 @@ The dataset "CDC diabetes health indicators" is from the website: https://archiv
 To better understand the relationship between  lifestyle and diabetes in the US
 
 
-# Diabetes Health Indicators Dataset
+# Diabetes Health Indicators Dataset Overview and details
 
-### Overview
+### Dataset overview
 The **Diabetes Health Indicators Dataset** contains healthcare, demographic, and lifestyle survey data collected from U.S. adults, along with their diabetes diagnosis.  
 It includes **21 features** (demographics, medical history, and behavioral indicators) and a **target variable** that classifies individuals as *diabetic*, *pre-diabetic*, or *healthy*.
 
