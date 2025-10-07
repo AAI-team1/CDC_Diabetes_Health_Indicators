@@ -21,7 +21,7 @@ The dataset "CDC diabetes health indicators" is from the website: https://archiv
 To better understand the relationship between  lifestyle and diabetes in the US
 
 
-# Diabetes Health Indicators Dataset Overview and details
+# Diabetes Health Indicators Dataset Overview and Details
 
 ### Dataset overview
 The **Diabetes Health Indicators Dataset** contains healthcare, demographic, and lifestyle survey data collected from U.S. adults, along with their diabetes diagnosis.  
